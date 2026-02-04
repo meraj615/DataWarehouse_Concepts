@@ -242,15 +242,15 @@
 **Use Case:** Detecting unauthorized access and meeting regulatory requirements.
 
 
-#### Most Important Topics To Cover #########
+#### `Most Important Topics To Cover` 
 
-### `Fact Table`
-### `Dimension Table`
-### `Star Schema vs Snowflake Schema`
-### `SCD Types`
-### `ETL vs ELT`
-### `Incremental Load`
-### `OLTP vs OLAP`
+#### Fact Table ####
+#### Dimension Table ####
+#### Star Schema vs Snowflake Schema ####
+#### SCD Types ####
+#### ETL vs ELT ####
+#### Incremental Load ####
+#### OLTP vs OLAP ####
 
 
 
